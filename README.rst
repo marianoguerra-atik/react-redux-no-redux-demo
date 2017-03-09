@@ -20,6 +20,22 @@ decide in which order to minify a tree of module dependencies so that every
 module loads after all its dependencies, it was used as an example in the talk
 to show how you could replace requirejs if you where a NIH fan.
 
+Try
+---
+
+Clone this repo and run any http server at the root, if you have python 2 installed::
+
+    python -m SimpleHTTPServer
+
+if you have python 3 installed::
+
+    python3 -m http.server
+
+and open http://localhost:8000 in your browser.
+
+or just visit the demo from the presentation here: http://marianoguerra.github.io/presentations/stuttgartjs-meetup-react-redux-no-tools/demo/index.html
+
+
 Author
 ------
 
