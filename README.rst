@@ -15,6 +15,11 @@ don't plan to update it.
 
 You can see the slides from the talk `here <http://marianoguerra.github.io/presentations/stuttgartjs-meetup-react-redux-no-tools/>`_
 
+the tsort.js file has some sample code to implement topological sorting to
+decide in which order to minify a tree of module dependencies so that every
+module loads after all its dependencies, it was used as an example in the talk
+to show how you could replace requirejs if you where a NIH fan.
+
 Author
 ------
 
