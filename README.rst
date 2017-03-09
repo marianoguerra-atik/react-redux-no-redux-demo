@@ -33,7 +33,7 @@ if you have python 3 installed::
 
 and open http://localhost:8000 in your browser.
 
-or just visit the demo from the presentation here: http://marianoguerra.github.io/presentations/stuttgartjs-meetup-react-redux-no-tools/demo/index.html
+or just visit the demo from the presentation here: http://marianoguerra.github.io/presentations/stuttgartjs-meetup-react-redux-no-tools/demo/
 
 
 Author
